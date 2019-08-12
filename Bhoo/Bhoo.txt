@@ -1,0 +1,1 @@
+Hola amigos, este juego se llama BHOO el cual es el personaje principal,espero y les guste este arcade hecho en python por mi y mi socio Miguel Villegas.
